@@ -173,7 +173,7 @@ HTML类 ld 内联框架
     //hight和width属性用于规定iframe的高度和宽度
     //属性值的默认单位是像素，但也可以用百分比来设定(比如“80%”)
     //实例：
-    <iframe src="demo_iframe.htm"width="200"heoght="200"></iframe>
+    <iframe src="demo_iframe.htm"width="200"height="200"></iframe>
 
     //Iframe-删除边框
     //frameborder属性规定是否显示iframe周围的边框
@@ -186,7 +186,7 @@ HTML类 ld 内联框架
     //链接的target属性必须引用iframe的name属性
     //实例：
     <iframe src="demo_iframe.htm"name="iframe_a"></iframe>
-    <p><a href="http;//www.w3school.com.cn"target="iframe_a"?W3School.com.cn</a></p>
+    <p><a href="http;//www.w3school.com.cn">target="iframe_a"W3School.com.cn</a></p>
 
     //此笔记源自W3School教程
       
